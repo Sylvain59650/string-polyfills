@@ -5,6 +5,11 @@
   The lastest version of this document is available on [Github > string-polyfills](https://github.com/Sylvain59650/string-polyfills/blob/master/README.md)
 </div>
 
+
+## Goal
+
+The purpose of this module is to gather all the polyfills on the strings in a single module without dependencies.
+
 ## Availables operations
 - trimStart
 - trimEnd
@@ -19,6 +24,7 @@ or
 
 
 ## prerequisites
+
 
 ### for NodeJs
      require("string-polyfills");
