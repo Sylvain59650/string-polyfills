@@ -1,0 +1,31 @@
+{
+  "name": "string-polyfills",
+  "version": "0.0.1",
+  "description": "All polyfills about String",
+  "main": "distrib/String.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvain59650/string-polyfills.git"
+  },
+  "keywords": [
+    "String",
+    "polyfill",
+    "prototype",
+    "startsWith",
+    "endsWith"
+  ],
+  "author": "Sylvain Longepée",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvain59650/string-polyfills/issues"
+  },
+  "homepage": "https://github.com/Sylvain59650/string-polyfills#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
