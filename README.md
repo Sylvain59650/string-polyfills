@@ -42,4 +42,4 @@ or
 
     <script src="node_modules/string-polyfills/distrib/string-polyfills.min.js"></script>
 
-**Note** tests with IE11, IE10, Chrome 64, Firefox 58
+**Note** tests with IE 11, IE 10, Chrome 64, Firefox 58
