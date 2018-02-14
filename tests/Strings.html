@@ -4,8 +4,16 @@
   <script src="../sources/String.js"></script>
   <script>
     var st = "         toto            ";
-    console.log("-" + st.trimStart() + "-");
-    console.log("-" + st.trimEnd() + "-");
+    console.log("trimLeft-" + st.trimLeft() + "-");
+    console.log("trimRight-" + st.trimRight() + "-");
+    console.log("startsWith-" + st.startsWith("toto") + "-");
+    console.log("endsWith-" + st.endsWith("toto") + "-");
+    console.log("repeat-" + st.repeat(5) + "-");
+    console.log("includes-" + st.includes("toto") + "-");
+    console.log("padStart-" + st.padStart(5, "*") + "-");
+    console.log("padEnd-" + st.padEnd(5, "*") + "-");
+    console.log("substr-" + st.substr("tot") + "-");
+    console.log("trim-" + st.trim() + "-");
   </script>
 </body>
 

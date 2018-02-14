@@ -11,8 +11,17 @@
 The purpose of this module is to gather all the polyfills on the strings in a single module without dependencies.
 
 ## Availables operations
-- trimStart
-- trimEnd
+- endsWith
+- startsWith
+- fromCodePoint
+- includes
+- padEnd
+- padStart
+- repeat
+- substr
+- trim
+- trimLeft
+- trimRight
 
 ## Installation
 
@@ -32,3 +41,5 @@ or
 ### for browser
 
     <script src="node_modules/string-polyfills/distrib/string-polyfills.min.js"></script>
+
+**Note** tests with IE11, IE10, Chrome 64, Firefox 58
