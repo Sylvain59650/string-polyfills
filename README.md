@@ -34,12 +34,14 @@ or
 
 ## prerequisites
 
-
-### for NodeJs
-     require("string-polyfills");
-
-### for browser
+### for browsers
 
     <script src="node_modules/string-polyfills/distrib/string-polyfills.min.js"></script>
 
 **Note** tests with IE 11, IE 10, Chrome 64, Firefox 58
+
+# Author & License
+- Sylvain Longepée
+- Released under MIT license
+- Based on separated scripts referenced at [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/fromCharCode)
+ 
