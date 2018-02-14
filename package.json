@@ -1,6 +1,6 @@
 {
   "name": "string-polyfills",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "description": "All polyfills about String",
   "main": "distrib/String.min.js",
   "scripts": {
