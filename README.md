@@ -1,5 +1,19 @@
 # string-polyfills
 
+<div style="display:inline">
+
+[![build](https://travis-ci.org/Sylvain59650/string-polyfills.png?branch=master)](https://travis-ci.org/Sylvain59650/string-polyfills)
+![version](https://img.shields.io/npm/v/string-polyfills.svg)
+![package](https://img.shields.io/github/package-json/v/Sylvain59650/string-polyfills.svg)
+![dependencies](https://img.shields.io/david/Sylvain59650/string-polyfills.svg)
+![minified](https://img.shields.io/bundlephobia/min/string-polyfills.svg)
+![linter](https://img.shields.io/badge/eslint-ok-blue.svg)
+![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
+
+![license](https://img.shields.io/npm/l/string-polyfills.svg)
+[![hits](http://hits.dwyl.com/Sylvain59650/string-polyfills.svg)](http://hits.dwyl.com/Sylvain59650/string-polyfills)
+</div>
+
  <div class="Note" style="color:orange;font-style:italic">
  
   The lastest version of this document is available on [Github > string-polyfills](https://github.com/Sylvain59650/string-polyfills/blob/master/README.md)
