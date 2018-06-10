@@ -10,9 +10,11 @@
 ![linter](https://img.shields.io/badge/eslint-ok-blue.svg)
 ![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
 
-![license](https://img.shields.io/npm/l/string-polyfills.svg)
-[![hits](http://hits.dwyl.com/Sylvain59650/string-polyfills.svg)](http://hits.dwyl.com/Sylvain59650/string-polyfills)
-</div>
+  <a target="_blank" title="stats" href="https://www.jsdelivr.com/package/npm/string-polyfills"><img src="https://data.jsdelivr.com/v1/package/npm/string-polyfills/badge" /></a>
+    <a target="_blank" title="script online" href="https://cdn.jsdelivr.net/npm/string-polyfills"><img src="https://img.shields.io/badge/cdn-jsdeliv-black.svg" /></a>
+    <img src="https://img.shields.io/npm/l/string-polyfills.svg" />
+    <img src="https://hits.dwyl.com/Sylvain59650/string-polyfills.svg" />
+ </div>
 
  <div class="Note" style="color:orange;font-style:italic">
  
@@ -48,9 +50,13 @@ or
 
 ## prerequisites
 
-### for browsers
+### for browsers after install
 
     <script src="node_modules/string-polyfills/distrib/string-polyfills.min.js"></script>
+
+### for browsers without install
+
+    <script src="https://cdn.jsdelivr.net/npm/string-polyfills"></script>
 
 **Note** tests with IE 11, IE 10, Chrome 64, Firefox 58
 
